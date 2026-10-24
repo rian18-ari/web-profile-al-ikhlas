@@ -1,0 +1,6 @@
+{
+  "name": "Sekolah Al Ikhlas",
+  "description": "Website resmi dan landing page Sekolah Islam Al Ikhlas. Membangun Generasi Berilmu, Berakhlak, dan Berprestasi dengan kurikulum terpadu, fasilitas modern, dan pendaftaran PPDB online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
